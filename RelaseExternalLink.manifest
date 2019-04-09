@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"",
+	"description":	{
+		"":	"ファイル内の外部への参照リンクをすべて解除する"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
