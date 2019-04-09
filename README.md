@@ -1,1 +1,3 @@
-# Fusion360_Script_RelaseExternalLink
+# RelaseExternalLink
+
+Fusion360 Script to break all external link inside a design
